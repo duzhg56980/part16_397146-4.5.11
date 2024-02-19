@@ -1,0 +1,6 @@
+import cn.hutool.log.LogFactory;
+public class FunctionUse7852 {
+public void funcUse() {
+LogFactory logfactory = new LogFactory();
+}
+}
